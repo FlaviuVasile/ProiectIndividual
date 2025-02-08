@@ -1,4 +1,6 @@
+-- linguist-detectable
 -- linguist-language=SQL
+
 
 CREATE DATABASE SalonFrizerie;
 USE SalonFrizerie;
